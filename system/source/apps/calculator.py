@@ -1,4 +1,4 @@
-from .system.gui.apps import calculator
+from system import scapegoat
 import math
 
 input = calculator.input
