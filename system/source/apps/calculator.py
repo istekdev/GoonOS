@@ -1,7 +1,7 @@
 from system import scapegoat
 import math
 
-input = calculator.input
+input = scapegoat.sg
 
 def trig(type):
   radian = math.radian(int(calculator.input))
